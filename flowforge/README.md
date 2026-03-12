@@ -39,6 +39,20 @@ npm start
 
 The app will open at `http://localhost:3000`
 
+## Screenshots
+
+### Home Page
+<img width="610" height="306" alt="brave_screenshot_localhost (1)" src="https://github.com/user-attachments/assets/4747b5d3-ac0f-41fa-a898-237c8aa8eef1" />
+
+
+### Validation
+<img width="797" height="214" alt="brave_screenshot_localhost (2)" src="https://github.com/user-attachments/assets/25734525-334c-4f02-8f32-31afe56c3e6a" />
+
+
+### Execution
+<img width="1919" height="933" alt="brave_screenshot_localhost" src="https://github.com/user-attachments/assets/4f8bb959-7e9d-4d3e-a3e6-e182877a4e9e" />
+
+
 ## Project Structure
 
 ```
